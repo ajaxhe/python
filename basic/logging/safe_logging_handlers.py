@@ -1,5 +1,6 @@
 # http://lightthewoods.me/2013/11/18/Python%E5%A4%9A%E8%BF%9B%E7%A8%8Blog%E6%97%A5%E5%BF%97%E5%88%87%E5%88%86%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/
 # http://www.jianshu.com/p/d615bf01e37b
+# http://www.programcreek.com/python/example/543/fcntl.fcntl
 
 import time
 import os
